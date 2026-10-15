@@ -14,9 +14,9 @@ An AI chat application built around the bobo character and community, combining 
 
 | Path | Purpose |
 | --- | --- |
-| [apps/web](https://github.com/bobo-labs/bobOS/tree/main/apps/web) | Next.js interface and server actions |
-| [apps/agent](https://github.com/bobo-labs/bobOS/tree/main/apps/agent) | Express agent, model integration, and chat workflows |
-| [packages/database](https://github.com/bobo-labs/bobOS/tree/main/packages/database) | Shared database package |
+| [apps/web](https://github.com/barkz-xyz/bobOS/tree/main/apps/web) | Next.js interface and server actions |
+| [apps/agent](https://github.com/barkz-xyz/bobOS/tree/main/apps/agent) | Express agent, model integration, and chat workflows |
+| [packages/database](https://github.com/barkz-xyz/bobOS/tree/main/packages/database) | Shared database package |
 
 ## Development
 
@@ -40,4 +40,4 @@ pnpm typecheck
 
 This repository demonstrates interface development, LLM integration, wallet authentication, and a shared application data layer.
 
-Built by [barkz](https://github.com/bobo-labs).
+Built by [barkz](https://github.com/barkz-xyz).
