@@ -14,9 +14,9 @@ An AI chat application built around the bobo character and community, combining 
 
 | Path | Purpose |
 | --- | --- |
-| [apps/web](apps/web) | Next.js interface and server actions |
-| [apps/agent](apps/agent) | Express agent, model integration, and chat workflows |
-| [packages/database](packages/database) | Shared database package |
+| [apps/web](https://github.com/bobo-labs/bobOS/tree/main/apps/web) | Next.js interface and server actions |
+| [apps/agent](https://github.com/bobo-labs/bobOS/tree/main/apps/agent) | Express agent, model integration, and chat workflows |
+| [packages/database](https://github.com/bobo-labs/bobOS/tree/main/packages/database) | Shared database package |
 
 ## Development
 
