@@ -40,4 +40,4 @@ pnpm typecheck
 
 This repository demonstrates interface development, LLM integration, wallet authentication, and a shared application data layer.
 
-Built by [Alejandro Mendoza / bobo labs](https://github.com/bobo-labs).
+Built by [barkz](https://github.com/bobo-labs).
